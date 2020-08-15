@@ -118,14 +118,14 @@ textarea {
   left: 38%;
   width: 44px;
   height: 44px;
-  background: transparent url(../images/p.png) no-repeat scroll center center;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/p.png) no-repeat scroll center center;
   cursor: pointer
 }
 .playerico {
   display: inline-block;
   width: 18px;
   height: 18px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll 100% 100%;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll 100% 100%;
   cursor: pointer
 }
 .video-bg {
@@ -135,7 +135,7 @@ textarea {
   display: block;
   width: 100%;
   height: 100%;
-  background: #000 url(../images/p.png) no-repeat scroll center 80%;
+  background: #000 url(http://www.cechi5.com/template/cechi/images/p.png) no-repeat scroll center 80%;
   line-height: 24px;
   opacity: .7;
   cursor: pointer;
@@ -320,7 +320,7 @@ textarea {
   display: inline;
   margin-right: 8px;
   padding-left: 18px;
-  background: url(../images/bg.png) -10px -72px no-repeat;
+  background: url(http://www.cechi5.com/template/cechi/images/bg.png) -10px -72px no-repeat;
 }
 .commend ol li a:hover {
   color: #005df8;
@@ -721,7 +721,7 @@ textarea {
   .nav-qt .ht {
     width: 30px !important;
     height: 20px !important;
-    background: transparent url(../images/duomi-bg.png) no-repeat scroll -68px -122px !important;
+    background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -68px -122px !important;
   }
   .nav-qt li.hover .ht {
     background-position: -102px -122px !important;
@@ -996,7 +996,7 @@ textarea {
   display: block;
   width: 100px;
   height: 60px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -195px -300px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -195px -300px;
   cursor: pointer
 }
 .top-nav li {
@@ -1062,7 +1062,7 @@ textarea {
   display: inline-block;
   width: 18px;
   height: 20px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -212px -159px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -212px -159px;
   cursor: pointer
 }
 .top-nav li.nav_hover .navbg {
@@ -1117,7 +1117,7 @@ textarea {
   margin-bottom: -4px;
   width: 22px;
   height: 18px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -195px -227px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -195px -227px;
   cursor: pointer
 }
 .nav-qt li.hover .ht {
@@ -1128,7 +1128,7 @@ textarea {
   margin-bottom: -4px;
   width: 22px;
   height: 18px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -145px -227px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -145px -227px;
   cursor: pointer
 }
 .nav-qt li.hover .jl {
@@ -1152,7 +1152,7 @@ textarea {
   display: none
 }
 .nav-qt li.hover a {
-  background: url(../images/men-top.png) no-repeat scroll center bottom;
+  background: url(http://www.cechi5.com/template/cechi/images/men-top.png) no-repeat scroll center bottom;
   color: #ff6600
 }
 .nav-qt .hover .cc {
@@ -1171,7 +1171,7 @@ textarea {
   margin-bottom: -4px;
   width: 20px;
   height: 20px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -1px -260px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -1px -260px
 }
 .nav-qt li.hover .mabg {
   background-position: -29px -260px
@@ -1189,7 +1189,7 @@ textarea {
   display: block;
   width: 150px;
   height: 150px;
-  background: transparent url(../images/erweima.png)
+  background: transparent url(http://www.cechi5.com/template/cechi/images/erweima.png)
 }
 .nav-qt .maw dd {
   padding: 0;
@@ -1198,7 +1198,7 @@ textarea {
   line-height: 22px
 }
 .nav-qt li.hover .ma {
-  background: url(../images/men-top.png) no-repeat scroll center bottom;
+  background: url(http://www.cechi5.com/template/cechi/images/men-top.png) no-repeat scroll center bottom;
   color: #ff6600
 }
 .nav-qt li.bb .mbbg {
@@ -1206,7 +1206,7 @@ textarea {
   margin-bottom: -4px;
   width: 20px;
   height: 20px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -2px -122px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -2px -122px
 }
 .nav-qt li.hover .mbbg {
   background-position: -35px -122px
@@ -1258,13 +1258,13 @@ textarea {
   width: 18px;
   height: 35px;
   border: 0;
-  background: url(../images/search.png) no-repeat;
+  background: url(http://www.cechi5.com/template/cechi/images/search.png) no-repeat;
   outline: 0;
   display: block;
   padding: 0 10px;
 }
 .search .imgbtart {
-  background: url(../images/searchart.png) no-repeat;
+  background: url(http://www.cechi5.com/template/cechi/images/searchart.png) no-repeat;
 }
 .search .cur {
   display: block
@@ -1274,7 +1274,7 @@ textarea {
   color: #333
 }
 .search.cur .imgbt {
-  background: #fff url(../images/search.png) no-repeat 0 -60px
+  background: #fff url(http://www.cechi5.com/template/cechi/images/search.png) no-repeat 0 -60px
 }
 .sj-nav, .sj-navhome {
   float: right;
@@ -1285,7 +1285,7 @@ textarea {
   margin-bottom: -15px;
   width: 30px;
   height: 40px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -214px -460px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -214px -460px
 }
 .sj-noover {
   display: none
@@ -1314,7 +1314,7 @@ textarea {
   margin-bottom: -15px;
   width: 30px;
   height: 40px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -173px -460px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -173px -460px
 }
 .sj-nav .cur .sjbg-nav {
   background-position: -134px -460px
@@ -1358,7 +1358,7 @@ textarea {
   margin-bottom: -15px;
   width: 30px;
   height: 40px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -53px -460px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -53px -460px;
   cursor: pointer
 }
 .sj-search .cur .sjbg-search {
@@ -1428,7 +1428,7 @@ textarea {
 .index-color {
   color: #444;
   font-size: 25px;
-  background: url(../images/h4bg.gif) no-repeat 0 center;
+  background: url(http://www.cechi5.com/template/cechi/images/h4bg.gif) no-repeat 0 center;
 }
 .index-color .hitkey {
   float: right
@@ -1640,7 +1640,7 @@ textarea {
   overflow: hidden;
   width: 16px;
   height: 16px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -146px -160px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -146px -160px
 }
 .sy-jg a.time.on em, .sy-jg a.time:hover em {
   background-position: -69px -160px
@@ -1654,7 +1654,7 @@ textarea {
   overflow: hidden;
   width: 16px;
   height: 16px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -248px -227px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -248px -227px
 }
 .sy-jg a.rq.on em, .sy-jg a.rq:hover em {
   background-position: -247px -194px
@@ -1668,7 +1668,7 @@ textarea {
   overflow: hidden;
   width: 18px;
   height: 16px;
-  background: transparent url(../images/duomi-bg.png) no-repeat scroll -173px -160px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat scroll -173px -160px
 }
 .sy-jg a.tj.on em, .sy-jg a.tj:hover em {
   background-position: -106px -160px
@@ -1919,7 +1919,7 @@ textarea {
   margin: auto auto;
 }
 .videourl li.new a {
-  background: #f0f0f0 url(../images/new.png) no-repeat right top;
+  background: #f0f0f0 url(http://www.cechi5.com/template/cechi/images/new.png) no-repeat right top;
   cursor: pointer
 }
 .videourl li a:hover {
@@ -1927,7 +1927,7 @@ textarea {
   color: #fff
 }
 .videourl li.new a:hover {
-  background: #dfdfdf url(../images/new.png) no-repeat right top;
+  background: #dfdfdf url(http://www.cechi5.com/template/cechi/images/new.png) no-repeat right top;
   cursor: pointer
 }
 .videourl-down {
@@ -1985,7 +1985,7 @@ textarea {
   overflow: hidden
 }
 .digg_artup, .digg_artdown {
-  background: url('../images/home/digg_art.gif') no-repeat -189px 0;
+  background: url('http://www.cechi5.com/template/cechi/images/home/digg_art.gif') no-repeat -189px 0;
   border: 0;
   cursor: pointer;
   float: left;
@@ -2018,7 +2018,7 @@ textarea {
   width: 55px;
 }
 .digg_bar div {
-  background: transparent url('../images/home/digg_art_bg.gif') repeat-x scroll 0 -265px;
+  background: transparent url('http://www.cechi5.com/template/cechi/images/home/digg_art_bg.gif') repeat-x scroll 0 -265px;
   height: 5px;
   overflow: hidden;
   width: 0px
@@ -2285,7 +2285,7 @@ textarea {
   margin-top: 4px;
   width: 20px;
   height: 20px;
-  background: transparent url(../images/duomi-bg.png) no-repeat -197px -225px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat -197px -225px
 }
 .news-map {
   border: 1px solid #ccc;
@@ -2342,7 +2342,7 @@ textarea {
   display: inline-block;
   width: 100px;
   height: 60px;
-  background: transparent url(../images/duomi-bg.png) no-repeat -195px -300px
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat -195px -300px
 }
 .footer a {
   color: #FFF;
@@ -2360,7 +2360,7 @@ textarea {
   display: block;
   width: 42px;
   height: 42px;
-  background: transparent url(../images/duomi-bg.png) no-repeat -183px -377px;
+  background: transparent url(http://www.cechi5.com/template/cechi/images/duomi-bg.png) no-repeat -183px -377px;
   cursor: pointer
 }
 #facepic {
@@ -2531,7 +2531,7 @@ table {
   margin-top: 10px;
   width: 136px;
   height: 30px;
-  background: url(../images/play.png) 0 -30px no-repeat;
+  background: url(http://www.cechi5.com/template/cechi/images/play.png) 0 -30px no-repeat;
   text-indent: -999px
 }
 .channel-silder-play:hover {
@@ -2701,7 +2701,7 @@ table {
 .mian_title .more {
   position: absolute;
   display: block;
-  background-image: url(../images/more.png);
+  background-image: url(http://www.cechi5.com/template/cechi/images/more.png);
   background-repeat: no-repeat;
   width: 40px;
   height: 40px;
@@ -2711,7 +2711,7 @@ table {
 }
 .mian_title h2 {
   text-indent: 15px;
-  background-image: url(../images/title_icon.png);
+  background-image: url(http://www.cechi5.com/template/cechi/images/title_icon.png);
   background-repeat: no-repeat;
   background-size: 4px 18px;
   background-position: left center;
@@ -2845,7 +2845,7 @@ table {
   width: 98%;
 }
 .cmt_msg .input_wrap textarea {
-  background: url("../images/home/textareabg.png") repeat-x 0px 0px rgb(255, 255, 255);
+  background: url("http://www.cechi5.com/template/cechi/images/home/textareabg.png") repeat-x 0px 0px rgb(255, 255, 255);
   border-width: 1px 1px medium;
   border-style: solid solid none;
   border-color: rgb(187, 187, 187) rgb(187, 187, 187) currentColor;
@@ -2869,7 +2869,7 @@ table {
   line-height: 28px;
 }
 .cmt_msg .expression {
-  background: url("../images/home/emotion2.png") no-repeat 0px 0px;
+  background: url("http://www.cechi5.com/template/cechi/images/home/emotion2.png") no-repeat 0px 0px;
   margin: 6px 0px 0px 6px;
   width: 18px;
   height: 16px;
@@ -2877,7 +2877,7 @@ table {
   cursor: pointer;
 }
 .cmt_msg .expression:hover {
-  background: url("../images/home/emotion2.png") no-repeat 0px -16px;
+  background: url("http://www.cechi5.com/template/cechi/images/home/emotion2.png") no-repeat 0px -16px;
 }
 .cmt_msg .remaining {
   padding-right: 10px;
@@ -2905,7 +2905,7 @@ table {
   color: rgb(49, 139, 183);
 }
 .cmt_post {
-  background: url("../images/background.png") no-repeat -1px -379px;
+  background: url("http://www.cechi5.com/template/cechi/images/background.png") no-repeat -1px -379px;
   border: currentColor;
   width: 81px;
   height: 30px;
@@ -2999,7 +2999,7 @@ table {
   _display: inline;
 }
 .item_con .bottom .reply {
-  background: url("../images/home/rpy2.png") no-repeat 0px 0px;
+  background: url("http://www.cechi5.com/template/cechi/images/home/rpy2.png") no-repeat 0px 0px;
   color: rgb(153, 153, 153);
   text-indent: 19px;
   font-size: 11px;
@@ -3249,8 +3249,8 @@ table {
   overflow: hidden;
   opacity: .6;
   filter: Alpha(Opacity=60);
-  background-image: url(../images/focus_nav.png);
-  _background-image: url(../images/focus_nav.ie6.png);
+  background-image: url(http://www.cechi5.com/template/cechi/images/focus_nav.png);
+  _background-image: url(http://www.cechi5.com/template/cechi/images/focus_nav.ie6.png);
   background-repeat: no-repeat;
   position: absolute;
   top: 10px
@@ -3323,7 +3323,7 @@ table {
   display: block;
   width: 32px;
   height: 40px;
-  background: url(../images/slider-arrow.png) -110px 5px no-repeat;
+  background: url(http://www.cechi5.com/template/cechi/images/slider-arrow.png) -110px 5px no-repeat;
   filter: alpha(opacity=50);
   opacity: 0.5;
 }
@@ -3463,13 +3463,13 @@ table {
   border-color: #e74851
 }
 #SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w div.post-wrap-border-r {
-  background-image: url(../images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-r.png)
+  background-image: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-r.png)
 }
 #SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w div.post-wrap-border-l {
-  background-image: url(../images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-l.png)
+  background-image: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-l.png)
 }
 #SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w div.post-wrap-border-t .post-wrap-border-t-l {
-  background-image: url(../images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-t.png)
+  background-image: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cy-skin/028/skin-red/images/border-t.png)
 }
 #SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w .post-wrap-border-t div.post-wrap-border-t-r {
   border-top: 1px solid #e74851
@@ -3518,7 +3518,7 @@ table {
   width: 8px;
   height: 97px;
   position: absolute;
-  background: url(../images/changyan/mdevp/extensions/cmt-box/064/images/border-l.png);
+  background: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cmt-box/064/images/border-l.png);
   top: 0;
   left: 0
 }
@@ -3526,7 +3526,7 @@ table {
   width: 8px;
   height: 97px;
   position: absolute;
-  background: url(../images/changyan/mdevp/extensions/cmt-box/064/images/border-r.png);
+  background: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cmt-box/064/images/border-r.png);
   top: 0;
   right: 0
 }
@@ -3537,7 +3537,7 @@ table {
 #SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w .post-wrap-border-t .post-wrap-border-t-l {
   width: 46px;
   height: 8px;
-  background: url(../images/changyan/mdevp/extensions/cmt-box/064/images/border-t.png);
+  background: url(http://www.cechi5.com/template/cechi/images/changyan/mdevp/extensions/cmt-box/064/images/border-t.png);
   overflow: hidden;
   position: absolute;
   left: 0;
@@ -3623,7 +3623,7 @@ table {
   cursor: pointer;
   font-weight: bold;
   display: block;
-  background: url("../images/home/background.png") -10px 0 no-repeat;
+  background: url("http://www.cechi5.com/template/cechi/images/home/background.png") -10px 0 no-repeat;
 }
 .mac_pop .pop-foot {
   height: 50px;
